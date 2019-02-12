@@ -1,17 +1,3 @@
-/*clases -> class ->.cointainer-fluid
-ID-> id-> #principal
-etiquetas -> <> -> body, nav
-
-sintaxis
-
-Selector1{
-	atributo1 : "valor" ;
-	atributo2 : #ddd;
-}
-Selctor2{
-
-}*/
-
 body{
 	font-family: 'Raleway', sans-serif;
 }
@@ -19,29 +5,24 @@ body{
 header{background: url("../img/background_header.jpg")no-repeat;height: 700px;background-size: cover;
 }
 
-#logotipo{margin-top: 40px;
-}
+#logotipo{margin-top: 40px;}
 
-header .nav{justify-content: flex-end;
-}
+header .nav{justify-content: flex-end;}
 
-header .nav-link{
-	font-size: 13px;color: #ffffff;padding-top: 40px
-}
-header .nav-link:hover{background: #fff;color: #31344e
-}
+header .nav-link{ font-size: 13px;color: #ffffff;padding-top: 40px}
+header .nav-link:hover{background: #fff;color: #31344e}
 
-#text1{font-size:  65px;font-weight: bold;margin-top: 155px;color:#fff; text-align: center;
-}
+#text1{ font-size:  65px;font-weight: bold;margin-top: 155px;color:#fff; text-align: center;}
+#text2{font-size:  65px;font-weight: bold;color: #fff; text-align: center;}
+#text3{font-size:  21px; color: #fff; text-align: center;}
+#text4{font-size:  21px; color: #fff; text-align: center;}
+#button {margin-top: 80px;}
 
-#text2{font-size:  65px;font-weight: bold;color: #fff; text-align: center;
-}
+#SegundaParte{ font-family: 'Relaway';  margin-top: 110px;  margin-bottom: 110px;	text-align: center; color: #000; font-size: 11px;}
 
-#text3{font-size:  21px; color: #fff; text-align: center;
-}
+#TerceraParte{ margin-top: 40px;  margin-bottom: 40px;}
+#tercera{  margin-top: 1px;  margin-left: 1px;  margin-right: 1px;}
 
-#text4{font-size:  21px; color: #fff; text-align: center;
-}
 
-#button {margin-top: 80px;
-}
+
+
